@@ -1,0 +1,1 @@
+int inter:=5;  if (inter>0)  then  inter:=2*inter+1/3;  else  inter:=2/inter; #
